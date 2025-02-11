@@ -26,6 +26,7 @@ const App = () => {
         <option value="all">All</option>
         <option value="Fruits">Fruits</option>
         <option value="Dairy">Dairy</option>
+        <option value="Veggies">Veggies</option>
       </select>
 
       {/* Display initial sample products */}
