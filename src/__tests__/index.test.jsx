@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react'
-import App from '../src/App'
-import { sampleProducts } from './helpers'
+import App from '../App.jsx'
+import { sampleProducts } from './helpers.jsx'
 
 test('renders shopping app', () => {
     render(<App />)

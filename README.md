@@ -66,10 +66,9 @@ Your task is to implement these features using **React Hooks (`useState`)** whil
 ---
 
 ## **Testing and Debugging**
-1. Clone the repository containing **pre-written tests**:
-   ```sh
-   git clone <testing-repository-url>
-   ```
+1. Fork the original repo and clone it down
+
+
 2. Run the test suite:
    ```sh
    npm test
